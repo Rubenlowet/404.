@@ -1,0 +1,21 @@
+.center {
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    width: 70%;
+  }
+h1 {
+  font-size: 50px;
+}
+h2 {
+  margin-top: 70px
+}
+body {
+  background-image: url("/home/ruben/Desktop/404./images/thumb-1920-333222.jpg");
+  background-size: 100% 276%;
+  background-repeat: no-repeat;
+}
+@font-face {
+  font-family: "myFont";
+  src: url("/home/ruben/Desktop/404./fonts/zig_____.ttf");
+}
